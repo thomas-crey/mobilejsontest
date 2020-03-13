@@ -1,0 +1,20 @@
+{
+	"clients_live" :
+	[
+		{
+			"version" : 5,
+			"app_ui" : "https://mobile-live.playcrey.com/0.20/app",
+			"ingame_ui" : "https://mobile-live.playcrey.com/version/game",
+			"website_server_address" : "https://playcrey.com"
+		},
+
+		{
+			"version" : 2,
+			"app_ui" : "https://mobile-live.playcrey.com/0.20/app",
+			"ingame_ui" : "https://mobile-live.playcrey.com/version/game",
+			"website_server_address" : "https://playcrey.com"
+		}
+	
+	]
+
+}
