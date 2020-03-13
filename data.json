@@ -1,20 +1,19 @@
 {
-	"clients_live" :
-	[
-		{
-			"version" : 5,
-			"app_ui" : "https://mobile-live.playcrey.com/0.20/app",
-			"ingame_ui" : "https://mobile-live.playcrey.com/version/game",
-			"website_server_address" : "https://playcrey.com"
-		},
-
-		{
-			"version" : 2,
-			"app_ui" : "https://mobile-live.playcrey.com/0.20/app",
-			"ingame_ui" : "https://mobile-live.playcrey.com/version/game",
-			"website_server_address" : "https://playcrey.com"
-		}
+	"version": "1",
 	
-	]
+	"ui_android":
+	{
+		"app_ui" : "https://mobile-live.playcrey.com/0.1/app",
+		"ingame_ui" : "https://mobile-live.playcrey.com/version/game"
+	},
 
+	"backend":
+	{
+		"website_server_address": "https://staging.playcrey.com"
+	},
+
+	"backend_android":
+	{
+		"website_server_address": "https://playcrey.com"
+	}
 }
