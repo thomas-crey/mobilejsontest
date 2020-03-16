@@ -7,11 +7,6 @@
 		"ingame_ui" : "https://mobile-live.playcrey.com/version/game"
 	},
 
-	"backend":
-	{
-		"website_server_address": "https://staging.playcrey.com"
-	},
-
 	"backend_android":
 	{
 		"website_server_address": "https://playcrey.com"
