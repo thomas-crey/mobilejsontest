@@ -32,5 +32,9 @@
 	"backend_android":
 	{
 		"website_server_address": "https://playcrey.com"
+	},
+
+	"analytics_android": {
+		"report_to_users": false
 	}
 }
