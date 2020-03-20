@@ -36,7 +36,7 @@
 
 	"analytics_android": {
 		"report_to_users": false
-	}
+	},
 
 	"skus" : [ "test_sku_01", "test_sku_02" ]
 }
