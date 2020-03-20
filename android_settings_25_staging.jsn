@@ -38,5 +38,5 @@
 		"report_to_users": false
 	},
 
-	"skus" : [ "test_sku_01", "test_sku_02" ]
+	"skus_url" : "https://thomas-crey.github.io/mobilejsontest/android_google_store_skus.jsn"
 }
