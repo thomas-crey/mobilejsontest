@@ -9,6 +9,7 @@
 		"fakevalue": true,
 		"levels_root_directory": "/assets/saved_games",
 		"advanced_ui": false,
+		"fakevalue2": false,
 		"logFilters": "NoDefault,Multi"
 	},
 
