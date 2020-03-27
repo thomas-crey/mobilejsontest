@@ -6,7 +6,6 @@
 		"show_frame_time": true,
 		"show_anim_info": false,
 		"start_with_chromium": true,
-		"fakevalue": true,
 		"levels_root_directory": "/assets/saved_games",
 		"advanced_ui": false,
 		"logFilters": "NoDefault,Multi"
