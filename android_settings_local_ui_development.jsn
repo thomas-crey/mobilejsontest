@@ -1,0 +1,43 @@
+{
+	"debuginfo":
+	{
+		"allow_hdd_read": true,
+		"show_developer_notes": false,
+		"show_frame_time": true,
+		"show_anim_info": false,
+		"start_with_chromium": true,
+		"levels_root_directory": "/assets/saved_games",
+		"advanced_ui": false,
+		"logFilters": "NoDefault,Multi"
+	},
+
+	"debuginfo_android":
+	{
+		"allow_hdd_read": true,
+		"show_developer_notes": false,
+		"show_frame_time": true,
+		"show_anim_info": false,
+		"start_with_chromium": true,
+		"levels_root_directory": "/assets/saved_games",
+		"advanced_ui": false,
+		"logFilters": "NoDefault,Multi"
+	},
+
+	"ui_android":
+	{
+		"app_ui_original" : "https://192.168.1.197/0.1/app",
+		"app_ui" : "https://www.index.hu",
+		"ingame_ui" : "https://192.168.1.197/version/game"
+	},
+
+	"backend_android":
+	{
+		"website_server_address": "https://dev.playcrey.com"
+	},
+
+	"analytics_android": {
+		"report_to_users": false
+	},
+
+	"skus_url" : "https://thomas-crey.github.io/mobilejsontest/android_skus.jsn"
+}
