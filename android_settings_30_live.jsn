@@ -20,7 +20,7 @@
 		"start_with_chromium": true,
 		"levels_root_directory": "/assets/saved_games",
 		"advanced_ui": false,
-		"logFilters": "NoDefault,Multi"
+		"logFilters": "Default"
 	},
 
 	"ui_android":
